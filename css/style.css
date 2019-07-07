@@ -24,6 +24,14 @@ a {
   text-decoration: none;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  width: 50%;
+}
+
 /* -------------------------------- 
 
 Main Components 
